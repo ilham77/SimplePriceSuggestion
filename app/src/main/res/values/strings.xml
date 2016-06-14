@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Price Suggestion</string>
+    <string name="button_process">PROCESS</string>
+</resources>
